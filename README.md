@@ -1,10 +1,10 @@
 # Outlier Handling Project
 
 
-#running instuctions:
+# running instuctions:
 run the main file: outlier_handling_main.py
 
-##The datasets:
+## The datasets:
 Datasets should be save under the data_sets directory. 
 You could add/remove datasets in the Configuration file: Configurations.py . Each dataset must have the path 
 
