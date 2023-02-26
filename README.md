@@ -2,7 +2,8 @@
 
 
 # running instuctions:
-run the main file: outlier_handling_main.py
+run the main file: outlier_handling_main.py using python 2.6 or above. 
+See the requirements.txt file for necessary libraries. 
 
 ## The datasets:
 Datasets should be save under the data_sets directory. 
